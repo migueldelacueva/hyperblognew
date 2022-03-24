@@ -16,11 +16,11 @@ body
 }
 #container h1 
 {
-    font-size: 20px;    
+    font-size: 30px;    
 }
 #cabecera
 {
-    background: #33A;
+    background: rgb(170, 51, 134);
     color: white;
     padding: 0.5em;
     font-weight: bold;
